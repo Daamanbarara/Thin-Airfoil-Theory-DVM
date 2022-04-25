@@ -4,4 +4,6 @@ The solver to derive the solution to thin airfoil problem is based on the discre
 
 ![Git-Thin-Airfoil-Theory-DVM-Flow docx](https://user-images.githubusercontent.com/61012294/165073182-8477d087-1410-498f-ab9b-983ed4d62b8c.png)
 
+
 [Git-Thin-Airfoil-Theory-DVM.pdf](https://github.com/Daamanbarara/Thin-Airfoil-Theory-DVM/files/8553702/Git-Thin-Airfoil-Theory-DVM.pdf)
+<object data="[Git-Thin-Airfoil-Theory-DVM.pdf]" width="1000" height="1000" type='application/pdf'/>
